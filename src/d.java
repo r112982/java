@@ -28,6 +28,12 @@ public class d {
 
 String e ="拉拉拉拉";
 //ㄤㄤㄤㄤㄤㄤㄤ
+			 f4ef894fg984f498ew498wfe849fwf498wfe8wef498w4f98we4f89wf48wf84rf4f2w8
+			 foiqwerhjfou8qwepfioqjoiugfop
+			 we;jrq90yoi3;rhjnhojf]
+					 
+					 wequ09rptuj;qolhgi
+					 wadfgviohpsjolndfmbdjl;vf,lmfwef
 	}
 
 }
