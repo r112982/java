@@ -9,6 +9,7 @@ public class d {
 		System.out.println(x);
 
 //sonic testing
+		//welcome to the ジャパリパーク
 
 		
 	}
