@@ -6,6 +6,10 @@ public class d {
 		int x = 0;
 		int y = 1;
 		System.out.println();
+		453
+		4534
+		456
+		354
 		
 
 	}
