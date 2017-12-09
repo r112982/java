@@ -6,9 +6,7 @@ public class d {
 		int x = 0;
 		int y = 1;
 		System.out.println();
-		5465454656465456
-			
-4444444444
+		
 	}
 
 }
