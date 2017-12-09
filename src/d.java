@@ -21,7 +21,9 @@ public class d {
 	 		+ "
 
 
-String e ="拉拉拉拉";
+			
+
+	唧唧復唧唧 木蘭當馬騎
 	}
 
 }
