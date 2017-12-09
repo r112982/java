@@ -18,6 +18,7 @@ public class d {
 		//test
 	 
 >>>>>>> 2cff867f003bc03d63bf63107158f58e271be8c8
+String e ="拉拉拉拉";
 	}
 
 }
