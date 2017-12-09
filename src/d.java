@@ -687,11 +687,22 @@ String e ="拉拉拉拉";
 //60d5aa40704a0a4a3ebd746e6f46682599f06476
 //ㄤㄤㄤㄤㄤㄤㄤ
 <<<<<<< HEAD
+			 f4ef894fg984f498ew498wfe849fwf498wfe8wef498w4f98we4f89wf48wf84rf4f2w8
+			 foiqwerhjfou8qwepfioqjoiugfop
+			 we;jrq90yoi3;rhjnhojf]
+					 
+					 wequ09rptuj;qolhgi
+					 wadfgviohpsjolndfmbdjl;vf,lmfwef
+=======
+<<<<<<< HEAD
 >>>>>>> b5ccfba12f65a8729fb70c6dd8e92c4332c50cc9
 =======
 }
 			 //啦啦啦啦啦啦啦
 >>>>>>> 075ec7f445dbb36846c868063280754df9c42ab3
+>>>>>>> 48efca74013bcd423b9c5abb4f174e3a71dd9ddb
 	}
+	
+	大家安安 ,大家好,請多多指教
 
 }
