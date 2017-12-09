@@ -16,7 +16,12 @@ public class d {
  //安安安安安安安安安安安安安安安安安安安安安安
 =======
 		//test
-	 fthfgh fghghfgh bkhgjgh ""
+	 fthfgh fghghfgh bkhgjgh ""]
+			 fikgjdsfkd
+			 lg'df;gdfmg;dfjmgk;dsfg
+			 'ldfkmgl;dfjkg;ldsfjk,dkg'ngdkmnfgdf
+			 'jmfkgjndmsndf'kngkdfmv
+			 
 	 		+ "fghjhg "
 	 		+ "
 
