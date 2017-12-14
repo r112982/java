@@ -11,6 +11,6 @@ public class d {
 //sonic testing
 		//welcome to the ジャパリパーク
 
-		
+		//git flow testing
 	}
 }
